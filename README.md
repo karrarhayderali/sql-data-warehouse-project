@@ -45,7 +45,7 @@ The project uses a Truncate-and-Insert loading method, where all target tables a
 
 ---
 ### Data Model
-![Data Model](images/data model.png)
+![Data Model](images/data%20model.png)
 --
 
 # Data Sources
