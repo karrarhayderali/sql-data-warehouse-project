@@ -120,8 +120,7 @@ Data-Warehouse-Project/
 │
 ├── README.md
 └── .gitignore
-
-
+```
 
 
 # How to Run This Project
