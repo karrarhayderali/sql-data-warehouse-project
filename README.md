@@ -1,20 +1,19 @@
-#OverView
-## **Data Warehouse Project**
-Developing a **data warehouse** using **SQL Server** to establish a centralized and reliable data repository that supports data analysts in performing advanced analytics, reporting, and data-driven decision-making.
 
 ---
 ## Table of Contents
 - [Overview](#overview)
 - [Data Warehouse Project](#data-warehouse-project)
-- [Data warehouse-Architecture](#data-warehouse-architecture)
+- [Data warehouse Architecture](#data-warehouse-architecture)
 - [Data Sources](#data-sources)
 - [Project Structure](#project-structure)
 - [How to Run This Project](#how-to-run-this-project)
 - [Author & Contact](#author--contact)
 
-
-
 ---
+#OverView
+## **Data Warehouse Project**
+Developing a **data warehouse** using **SQL Server** to establish a centralized and reliable data repository that supports data analysts in performing advanced analytics, reporting, and data-driven decision-making.
+
 
 # Data worehouse Architecture
 
