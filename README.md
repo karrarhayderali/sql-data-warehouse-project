@@ -40,7 +40,8 @@ The project uses a Truncate-and-Insert loading method, where all target tables a
 ---
 
 ### Data Flow Diagram
-[data flow diagram](images/data_flow_diagram.png)
+![Data Flow Diagram](images/data%20flow%20diagram.png)
+
 
 ---
 ### Data Model
