@@ -40,11 +40,11 @@ The project uses a Truncate-and-Insert loading method, where all target tables a
 ---
 
 ### Data Flow Diagram
-![data flow diagram](images/data_flow_diagram.png)
+[data flow diagram](images/data_flow_diagram.png)
 
 ---
 ### Data Model
-![Data Model](images/Data_Model.png)
+![Data Model](images/data_model.png)
 --
 
 # Data Sources
