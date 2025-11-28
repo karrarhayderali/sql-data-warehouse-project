@@ -15,7 +15,7 @@
 Developing a **data warehouse** using **SQL Server** to establish a centralized and reliable data repository that supports data analysts in performing advanced analytics, reporting, and data-driven decision-making.
 
 
-# Data worehouse Architecture
+# Data warehouse Architecture
 
 This project focuses on building a **data warehouse** using **SQL Server**, with **CSV files** as the primary data source. The solution follows the **Medallion Architecture** consisting of **Bronze, Silver, and Gold layers**:
 
